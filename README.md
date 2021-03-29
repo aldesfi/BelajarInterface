@@ -27,6 +27,7 @@ ArrayList is a Class
 
 When create some interface-module and implements it, 
 the all operation is required to @override / create operation body
+in main-module
 
 so if u want to create module without required operation to 
-@override / create us **abstract class**
+@override / create in main-module use **abstract class**
