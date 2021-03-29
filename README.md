@@ -12,10 +12,7 @@ List MyList = new ArrayList();
 List an Interface
 
 ```
-List MyList = new List(); 
-```
-```diff
-- erorr!!
+List MyList = new List(); erorr!!
 ```
 
 ```
