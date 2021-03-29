@@ -8,7 +8,7 @@
 
 ### Interface
 ```
-List MyList = new ArrayList();
+List MyList = new ArrayList(); //allowed
 ```
 List an Interface
 
