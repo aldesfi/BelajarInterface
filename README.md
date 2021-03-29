@@ -13,12 +13,12 @@ List MyList = new ArrayList();
 List an Interface
 
 ```
-List MyList = new List(); erorr!!
+List MyList = new List(); //erorr!!
 ```
 
 
 ### Class
 ```
-ArrayList MyList = new ArrayList();
+ArrayList MyList = new ArrayList(); //allowed
 ```
 ArrayList is a Class
