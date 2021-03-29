@@ -6,6 +6,7 @@
 
 ## Example for realized
 
+### Interface
 ```
 List MyList = new ArrayList();
 ```
@@ -15,6 +16,8 @@ List an Interface
 List MyList = new List(); erorr!!
 ```
 
+
+### Class
 ```
 ArrayList MyList = new ArrayList();
 ```
